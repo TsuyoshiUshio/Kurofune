@@ -1,4 +1,4 @@
 # Kurofune
 Kurofune repository
 
-kurofune's one
+kurofune is coming
