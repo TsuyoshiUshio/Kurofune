@@ -1,4 +1,4 @@
 # Kurofune
 Kurofune repository
 
-kurofune is coming
+I changed the sentence.
