@@ -2,5 +2,5 @@
 
 # Kurofune
 
-Kurofune has come
+Kurofune is comming
 
